@@ -1,0 +1,14 @@
+#container {
+    position: relative;
+}
+
+#ryu {
+    position: absolute;
+}
+
+#Haduken {
+    position: absolute;
+    width: 100px;
+    top: 50px;
+    display: none;
+}
